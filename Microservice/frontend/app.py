@@ -18,7 +18,7 @@ def submit():
     #submit form data to backend
     form_data = dict(request.form)
     requests.post(BACKEND_URL +'/submit',json=form_data)
-    return "data is saved Successfully"
+    return "data saved Successfully"
 
 
 if __name__ == '__main__':
