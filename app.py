@@ -1,6 +1,6 @@
 # DevCore Learning Log - Showcase Program
 # Highlights concepts from the DevCore School Python for Beginners Course
-
+#test
 import datetime # Module 6: For using dates and times
 import json     # Module 6: For saving and loading data in a structured way (like dictionaries and lists)
 import os       # Module 6: For checking if a file exists
